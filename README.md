@@ -1,5 +1,5 @@
 # SideKick Study
-A React Native iOS app for Cybersecurity students to study for certifications (CompTIA, CISSP). Built with Expo, and Gemini (for UI design) 
+A React Native iOS app for Cybersecurity students to study for certifications (CompTIA, CISSP). Built with Expo, and Gemini(for UI design) 
 ![SideKick Study Preview](./SideKick-Study.png)
 
 ## Overview
